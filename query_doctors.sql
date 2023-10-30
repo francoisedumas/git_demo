@@ -1,1 +1,1 @@
-SELECT name, speciality FROM doctors;
+SELECT first_name, last_name, speciality FROM doctors;
