@@ -1,0 +1,1 @@
+SELECT speciality FROM doctors;
